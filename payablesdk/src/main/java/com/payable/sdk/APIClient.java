@@ -3,8 +3,6 @@ package com.payable.sdk;
 import android.content.Context;
 import android.util.Log;
 
-import com.aslam.retrofitlite.BuildConfig;
-
 import java.io.IOException;
 import java.security.cert.CertificateException;
 import java.util.concurrent.TimeUnit;
